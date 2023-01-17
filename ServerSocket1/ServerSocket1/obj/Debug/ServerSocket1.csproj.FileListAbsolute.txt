@@ -1,0 +1,7 @@
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\bin\Debug\ServerSocket1.exe.config
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\bin\Debug\ServerSocket1.exe
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\bin\Debug\ServerSocket1.pdb
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\obj\Debug\ServerSocket1.csproj.AssemblyReference.cache
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\obj\Debug\ServerSocket1.csproj.CoreCompileInputs.cache
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\obj\Debug\ServerSocket1.exe
+C:\Users\t470\source\repos\ServerSocket1\ServerSocket1\obj\Debug\ServerSocket1.pdb
